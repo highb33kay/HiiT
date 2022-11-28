@@ -25,3 +25,7 @@ Student_2 = Student("Jessica", 5, 8)
 
 print(Student_2.printScore())
 print(Student_1.printScore())
+
+def add(x,y):
+    z = x+y
+    print(z)
