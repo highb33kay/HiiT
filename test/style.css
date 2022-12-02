@@ -1,0 +1,27 @@
+/* space suit */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar {
+  background-color: rgb(24, 20, 20);
+  border-radius: 10px;
+  display: flex;
+}
+
+.navbar li {
+  list-style: none;
+  margin: 13px 20px;
+  float: left;
+}
+
+.navbar ul {
+  overflow: auto;
+}
+
+.navbar li a {
+  text-decoration: none;
+  padding: 3px 3px;
+  color: red;
+  font-weight: bold;
+}
